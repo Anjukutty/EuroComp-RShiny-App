@@ -1,6 +1,4 @@
 # Author : Anjukutty Joseph
-# StudentID : R00171244
-
 # Caution: Please launch the application in web browser view for bteer perfomance
 
 # Load libraries
